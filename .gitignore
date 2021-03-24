@@ -1,0 +1,7 @@
+venv/*
+.ipynb_checkpoints/*
+.tmp.drivedownload/*
+.virtual_documents/*
+__pycache__/*
+ngrok.exe
+
